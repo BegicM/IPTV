@@ -3,6 +3,34 @@
 http://client.nodomain.vip:80/live.ts?channelId=5&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 #EXTINF:-1,NOVA TV HD
 http://client.nodomain.vip:80/live.ts?channelId=1176&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,RTL TV
+http://client.nodomain.vip:80/live.ts?channelId=4&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,RTL 2
+http://client.nodomain.vip:80/live.ts?channelId=6&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,DM SAT
+http://client.nodomain.vip:80/live.ts?channelId=43&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,DUGA TV
+http://client.nodomain.vip:80/live.ts?channelId=226&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,GRAND TV
+http://client.nodomain.vip:80/live.ts?channelId=95&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,GRAND TV 2
+http://client.nodomain.vip:80/live.ts?channelId=493&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HAPPY
+http://client.nodomain.vip:80/live.ts?channelId=235&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HAPPY PAROVI 24/7
+http://client.nodomain.vip:80/live.ts?channelId=483&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,IDJ TV
+http://client.nodomain.vip:80/live.ts?channelId=485&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PRVA
+http://client.nodomain.vip:80/live.ts?channelId=40&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PRVA FILES
+http://client.nodomain.vip:80/live.ts?channelId=1521&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PRVA KICK
+http://client.nodomain.vip:80/live.ts?channelId=1375&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PRVA MAX
+http://client.nodomain.vip:80/live.ts?channelId=1374&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PRVA PLUS
+http://client.nodomain.vip:80/live.ts?channelId=42&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 #EXTINF:-1,CINESTAR PREMIERE 1
 http://client.nodomain.vip:80/live.ts?channelId=12&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 #EXTINF:-1,HBO
