@@ -5,3 +5,5 @@ http://client.nodomain.vip:80/live.ts?channelId=5&deviceUser=husejnovic&devicePa
 http://client.nodomain.vip:80/live.ts?channelId=1176&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 #EXTINF:-1,CINESTAR PREMIERE 1
 http://client.nodomain.vip:80/live.ts?channelId=12&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO
+http://client.nodomain.vip:80/live.ts?channelId=44&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
