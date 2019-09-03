@@ -7,3 +7,33 @@ http://client.nodomain.vip:80/live.ts?channelId=1176&deviceUser=husejnovic&devic
 http://client.nodomain.vip:80/live.ts?channelId=12&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 #EXTINF:-1,HBO
 http://client.nodomain.vip:80/live.ts?channelId=44&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO 2
+http://client.nodomain.vip:80/live.ts?channelId=16&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO 3
+http://client.nodomain.vip:80/live.ts?channelId=73&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO FAMILLY
+http://client.nodomain.vip:80/live.ts?channelId=1395&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO GO
+http://client.nodomain.vip:80/live.ts?channelId=1396&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,KINO TV
+http://client.nodomain.vip:80/live.ts?channelId=608&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M1 GOLD
+http://client.nodomain.vip:80/live.ts?channelId=1593&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,SCI FI
+http://client.nodomain.vip:80/live.ts?channelId=609&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,TV 1000
+http://client.nodomain.vip:80/live.ts?channelId=480&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX
+http://client.nodomain.vip:80/live.ts?channelId=17&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX LIFE
+http://client.nodomain.vip:80/live.ts?channelId=19&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX CRIME
+http://client.nodomain.vip:80/live.ts?channelId=18&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=111&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX BUSINESS
+http://client.nodomain.vip:80/live.ts?channelId=1406&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX PREMIUM FAMILY
+http://client.nodomain.vip:80/live.ts?channelId=1442&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PICKBOX 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1211&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
