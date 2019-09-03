@@ -299,40 +299,40 @@ http://client.nodomain.vip:80/live.ts?channelId=349&deviceUser=husejnovic&device
 http://client.nodomain.vip:80/live.ts?channelId=148&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 #EXTINF:-1,PINK HITS 2
 http://client.nodomain.vip:80/live.ts?channelId=182&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK HAHA
-URL:http://client.nodomain.vip:80/live.ts?channelId=1283&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK HORROR
-URL:http://client.nodomain.vip:80/live.ts?channelId=223&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK KIDS
-URL:http://client.nodomain.vip:80/live.ts?channelId=147&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK LOL
-URL:http://client.nodomain.vip:80/live.ts?channelId=1282&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK KUVAR
-URL:http://client.nodomain.vip:80/live.ts?channelId=527&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK MOVIES
-URL:http://client.nodomain.vip:80/live.ts?channelId=532&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK PLUS
-URL:http://client.nodomain.vip:80/live.ts?channelId=55&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK PREMIUM
-URL:http://client.nodomain.vip:80/live.ts?channelId=31&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK REALITY
-URL:http://client.nodomain.vip:80/live.ts?channelId=63&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK ROMANCE
-URL:http://client.nodomain.vip:80/live.ts?channelId=46&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK SCI-FI FANTASY
-URL:http://client.nodomain.vip:80/live.ts?channelId=66&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK SERIJE
-URL:http://client.nodomain.vip:80/live.ts?channelId=336&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK SOAP
-URL:http://client.nodomain.vip:80/live.ts?channelId=181&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK THRILLER
-URL:http://client.nodomain.vip:80/live.ts?channelId=33&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK WESTERN
-URL:http://client.nodomain.vip:80/live.ts?channelId=119&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK WORLD
-URL:http://client.nodomain.vip:80/live.ts?channelId=154&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PINK ZABAVA
-URL:http://client.nodomain.vip:80/live.ts?channelId=155&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK HAHA
+http://client.nodomain.vip:80/live.ts?channelId=1283&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK HORROR
+http://client.nodomain.vip:80/live.ts?channelId=223&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK KIDS
+http://client.nodomain.vip:80/live.ts?channelId=147&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK LOL
+http://client.nodomain.vip:80/live.ts?channelId=1282&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK KUVAR
+http://client.nodomain.vip:80/live.ts?channelId=527&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=532&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK PLUS
+http://client.nodomain.vip:80/live.ts?channelId=55&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK PREMIUM
+http://client.nodomain.vip:80/live.ts?channelId=31&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK REALITY
+http://client.nodomain.vip:80/live.ts?channelId=63&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK ROMANCE
+http://client.nodomain.vip:80/live.ts?channelId=46&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK SCI-FI FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=66&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK SERIJE
+http://client.nodomain.vip:80/live.ts?channelId=336&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK SOAP
+http://client.nodomain.vip:80/live.ts?channelId=181&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK THRILLER
+http://client.nodomain.vip:80/live.ts?channelId=33&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK WESTERN
+http://client.nodomain.vip:80/live.ts?channelId=119&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK WORLD
+http://client.nodomain.vip:80/live.ts?channelId=154&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PINK ZABAVA
+http://client.nodomain.vip:80/live.ts?channelId=155&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:===== ALBANIJA =====
 URL:http://client.nodomain.vip:80/live.ts?channelId=1123&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608&r=1
 Channel name:ALB MUSIC
@@ -454,55 +454,54 @@ URL:http://client.nodomain.vip:80/live.ts?channelId=1334&deviceUser=husejnovic&d
 Channel name:PLANET TV SLO
 URL:http://client.nodomain.vip:80/live.ts?channelId=1640&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:===== DOKU & ZABAVA =====
-URL:http://client.nodomain.vip:80/live.ts?channelId=1119&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608&r=1
-Channel name:24 KITCHEN
-URL:http://client.nodomain.vip:80/live.ts?channelId=9&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:ANIMAL PLANET
-URL:http://client.nodomain.vip:80/live.ts?channelId=108&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:DA VINCI LEARNING
-URL:http://client.nodomain.vip:80/live.ts?channelId=573&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:DISCOVERY
-URL:http://client.nodomain.vip:80/live.ts?channelId=105&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:COMEDY CENTRAL EXTRA
-URL:http://client.nodomain.vip:80/live.ts?channelId=1340&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CRIME INVESTIGATION
-URL:http://client.nodomain.vip:80/live.ts?channelId=236&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:E !
-URL:http://client.nodomain.vip:80/live.ts?channelId=118&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:HISTORY
-URL:http://client.nodomain.vip:80/live.ts?channelId=84&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:HISTORY 2
-URL:http://client.nodomain.vip:80/live.ts?channelId=467&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:INVESTIGATION DISCOVERY
-URL:http://client.nodomain.vip:80/live.ts?channelId=1502&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:LOV I RIBOLOV
-URL:http://client.nodomain.vip:80/live.ts?channelId=130&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:NATIONAL GEOGRAPHIC
-URL:http://client.nodomain.vip:80/live.ts?channelId=10&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:NAT GEO WILD
-URL:http://client.nodomain.vip:80/live.ts?channelId=263&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:FINE LIVING
-URL:http://client.nodomain.vip:80/live.ts?channelId=469&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:PLANET EARTH
-URL:http://client.nodomain.vip:80/live.ts?channelId=1430&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:TLC
-URL:http://client.nodomain.vip:80/live.ts?channelId=373&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:TRAVEL CHANNEL
-URL:http://client.nodomain.vip:80/live.ts?channelId=468&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:VIASAT EXPLORER
-URL:http://client.nodomain.vip:80/live.ts?channelId=1153&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:VIASAT HISTORY
-URL:http://client.nodomain.vip:80/live.ts?channelId=587&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:WOMAN TV
-URL:http://client.nodomain.vip:80/live.ts?channelId=1510&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MTV
-URL:http://client.nodomain.vip:80/live.ts?channelId=85&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MTV HITS
-URL:http://client.nodomain.vip:80/live.ts?channelId=595&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:TOP SOUND
-URL:http://client.nodomain.vip:80/live.ts?channelId=1587&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:VH1
-URL:http://client.nodomain.vip:80/live.ts?channelId=594&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,24 KITCHEN
+http://client.nodomain.vip:80/live.ts?channelId=9&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,ANIMAL PLANET
+http://client.nodomain.vip:80/live.ts?channelId=108&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,DA VINCI LEARNING
+http://client.nodomain.vip:80/live.ts?channelId=573&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,DISCOVERY
+http://client.nodomain.vip:80/live.ts?channelId=105&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://client.nodomain.vip:80/live.ts?channelId=1340&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CRIME INVESTIGATION
+http://client.nodomain.vip:80/live.ts?channelId=236&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,E !
+http://client.nodomain.vip:80/live.ts?channelId=118&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HISTORY
+http://client.nodomain.vip:80/live.ts?channelId=84&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HISTORY 2
+http://client.nodomain.vip:80/live.ts?channelId=467&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://client.nodomain.vip:80/live.ts?channelId=1502&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,LOV I RIBOLOV
+http://client.nodomain.vip:80/live.ts?channelId=130&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://client.nodomain.vip:80/live.ts?channelId=10&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,NAT GEO WILD
+http://client.nodomain.vip:80/live.ts?channelId=263&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FINE LIVING
+http://client.nodomain.vip:80/live.ts?channelId=469&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,PLANET EARTH
+http://client.nodomain.vip:80/live.ts?channelId=1430&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,TLC
+http://client.nodomain.vip:80/live.ts?channelId=373&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,TRAVEL CHANNEL
+http://client.nodomain.vip:80/live.ts?channelId=468&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,VIASAT EXPLORER
+http://client.nodomain.vip:80/live.ts?channelId=1153&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,VIASAT HISTORY
+http://client.nodomain.vip:80/live.ts?channelId=587&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,WOMAN TV
+http://client.nodomain.vip:80/live.ts?channelId=1510&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MTV
+http://client.nodomain.vip:80/live.ts?channelId=85&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MTV HITS
+http://client.nodomain.vip:80/live.ts?channelId=595&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,TOP SOUND
+http://client.nodomain.vip:80/live.ts?channelId=1587&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,VH1
+http://client.nodomain.vip:80/live.ts?channelId=594&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:===== KIDS =====
 URL:http://client.nodomain.vip:80/live.ts?channelId=1128&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608&r=1
 Channel name:KIDS
@@ -540,67 +539,66 @@ URL:http://client.nodomain.vip:80/live.ts?channelId=305&deviceUser=husejnovic&de
 Channel name:VAWOM TV
 URL:http://client.nodomain.vip:80/live.ts?channelId=1467&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:===== FILM & SERIJE =====
-URL:http://client.nodomain.vip:80/live.ts?channelId=1117&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608&r=1
-Channel name:ANDRIJA I ANDJELKA 24H
-URL:http://client.nodomain.vip:80/live.ts?channelId=1493&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:LUD ZBUNJEN NORMALAN 24H
-URL:http://client.nodomain.vip:80/live.ts?channelId=1492&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M MOVIES ACTION+  FHD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1469&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M MOVIES ALL STARS FHD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1470&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M MOVIES SMILE FHD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1468&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M MOVIES PREMIERE 1 FHD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1471&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M MOVIES PREMIERE 2 FHD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1472&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M MOVIES PREMIERE 3 FHD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1473&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT GOLD HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1447&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT HOROR HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1448&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT KINO HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1446&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT PREMIUM HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1449&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 1 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1248&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 2 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1249&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 3 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1250&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 4 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1251&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 5 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1252&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 6 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1253&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 7 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1254&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 8 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1255&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 9 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1256&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 10 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1257&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXCRO SELECT 11 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1258&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXBEST PREMIERE HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1307&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXBEST ACTION HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1308&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXBEST THRILLER 2 HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1309&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXBEST ADVENTURE HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1310&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXBEST FILM HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1311&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXBEST SERIJA HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1312&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAXBEST FANTASY HD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1313&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,ANDRIJA I ANDJELKA 24H
+http://client.nodomain.vip:80/live.ts?channelId=1493&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,LUD ZBUNJEN NORMALAN 24H
+http://client.nodomain.vip:80/live.ts?channelId=1492&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M MOVIES ACTION+  FHD
+http://client.nodomain.vip:80/live.ts?channelId=1469&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M MOVIES ALL STARS FHD
+http://client.nodomain.vip:80/live.ts?channelId=1470&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M MOVIES SMILE FHD
+http://client.nodomain.vip:80/live.ts?channelId=1468&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M MOVIES PREMIERE 1 FHD
+http://client.nodomain.vip:80/live.ts?channelId=1471&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M MOVIES PREMIERE 2 FHD
+http://client.nodomain.vip:80/live.ts?channelId=1472&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M MOVIES PREMIERE 3 FHD
+http://client.nodomain.vip:80/live.ts?channelId=1473&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT GOLD HD
+http://client.nodomain.vip:80/live.ts?channelId=1447&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT HOROR HD
+http://client.nodomain.vip:80/live.ts?channelId=1448&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT KINO HD
+http://client.nodomain.vip:80/live.ts?channelId=1446&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT PREMIUM HD
+http://client.nodomain.vip:80/live.ts?channelId=1449&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 1 HD
+http://client.nodomain.vip:80/live.ts?channelId=1248&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1249&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 3 HD
+http://client.nodomain.vip:80/live.ts?channelId=1250&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 4 HD
+http://client.nodomain.vip:80/live.ts?channelId=1251&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 5 HD
+http://client.nodomain.vip:80/live.ts?channelId=1252&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 6 HD
+http://client.nodomain.vip:80/live.ts?channelId=1253&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 7 HD
+http://client.nodomain.vip:80/live.ts?channelId=1254&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 8 HD
+http://client.nodomain.vip:80/live.ts?channelId=1255&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 9 HD
+http://client.nodomain.vip:80/live.ts?channelId=1256&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 10 HD
+:http://client.nodomain.vip:80/live.ts?channelId=1257&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXCRO SELECT 11 HD
+http://client.nodomain.vip:80/live.ts?channelId=1258&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXBEST PREMIERE HD
+http://client.nodomain.vip:80/live.ts?channelId=1307&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXBEST ACTION HD
+http://client.nodomain.vip:80/live.ts?channelId=1308&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXBEST THRILLER 2 HD
+http://client.nodomain.vip:80/live.ts?channelId=1309&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXBEST ADVENTURE HD
+http://client.nodomain.vip:80/live.ts?channelId=1310&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXBEST FILM HD
+http://client.nodomain.vip:80/live.ts?channelId=1311&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXBEST SERIJA HD
+http://client.nodomain.vip:80/live.ts?channelId=1312&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAXBEST FANTASY HD
+http://client.nodomain.vip:80/live.ts?channelId=1313&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:MAXBEST SCI-FI HD
 URL:http://client.nodomain.vip:80/live.ts?channelId=1314&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:MAXBEST COMEDY & ROMANCE HD
@@ -614,71 +612,71 @@ URL:http://client.nodomain.vip:80/live.ts?channelId=1319&deviceUser=husejnovic&d
 Channel name:MAXBEST POP & ROCK HD
 URL:http://client.nodomain.vip:80/live.ts?channelId=1320&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:AMC
-URL:http://client.nodomain.vip:80/live.ts?channelId=611&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+http://client.nodomain.vip:80/live.ts?channelId=611&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:AXN
-URL:http://client.nodomain.vip:80/live.ts?channelId=122&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+http://client.nodomain.vip:80/live.ts?channelId=122&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:AXN SPIN
-URL:http://client.nodomain.vip:80/live.ts?channelId=612&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINESTAR TV
-URL:http://client.nodomain.vip:80/live.ts?channelId=224&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINESTAR ACTION
-URL:http://client.nodomain.vip:80/live.ts?channelId=268&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINESTAR COMEDY
-URL:http://client.nodomain.vip:80/live.ts?channelId=1384&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINESTAR FANTASY
-URL:http://client.nodomain.vip:80/live.ts?channelId=607&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINESTAR PREMIERE 1
-URL:http://client.nodomain.vip:80/live.ts?channelId=12&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINESTAR PREMIERE 2
-URL:http://client.nodomain.vip:80/live.ts?channelId=13&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINEMAX 1
-URL:http://client.nodomain.vip:80/live.ts?channelId=14&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:CINEMAX 2
-URL:http://client.nodomain.vip:80/live.ts?channelId=15&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+http://client.nodomain.vip:80/live.ts?channelId=612&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINESTAR TV
+:http://client.nodomain.vip:80/live.ts?channelId=224&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINESTAR ACTION
+http://client.nodomain.vip:80/live.ts?channelId=268&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINESTAR COMEDY
+http://client.nodomain.vip:80/live.ts?channelId=1384&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINESTAR FANTASY
+http://client.nodomain.vip:80/live.ts?channelId=607&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://client.nodomain.vip:80/live.ts?channelId=12&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://client.nodomain.vip:80/live.ts?channelId=13&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINEMAX 1
+http://client.nodomain.vip:80/live.ts?channelId=14&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,CINEMAX 2
+http://client.nodomain.vip:80/live.ts?channelId=15&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:DIVA TV
-URL:http://client.nodomain.vip:80/live.ts?channelId=1405&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+http://client.nodomain.vip:80/live.ts?channelId=1405&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:EPIC DRAMA
-URL:http://client.nodomain.vip:80/live.ts?channelId=1402&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+http://client.nodomain.vip:80/live.ts?channelId=1402&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:FILMBOX EXTRA
-URL:http://client.nodomain.vip:80/live.ts?channelId=586&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+http://client.nodomain.vip:80/live.ts?channelId=586&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:FILMBOX PLUS
-URL:http://client.nodomain.vip:80/live.ts?channelId=525&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+http://client.nodomain.vip:80/live.ts?channelId=525&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:FILMBOX FAMILLY
-URL:http://client.nodomain.vip:80/live.ts?channelId=1445&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:HBO
-URL:http://client.nodomain.vip:80/live.ts?channelId=44&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:HBO 2
-URL:http://client.nodomain.vip:80/live.ts?channelId=16&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:HBO 3
-URL:http://client.nodomain.vip:80/live.ts?channelId=73&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:HBO FAMILLY
-URL:http://client.nodomain.vip:80/live.ts?channelId=1395&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:HBO GO
-URL:http://client.nodomain.vip:80/live.ts?channelId=1396&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:KINO TV
-URL:http://client.nodomain.vip:80/live.ts?channelId=608&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M1 GOLD
-URL:http://client.nodomain.vip:80/live.ts?channelId=1593&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:M1 FILM
-URL:http://client.nodomain.vip:80/live.ts?channelId=379&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:MAX FILMS
-URL:http://client.nodomain.vip:80/live.ts?channelId=1488&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:SCI FI
-URL:http://client.nodomain.vip:80/live.ts?channelId=609&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:TV 1000
-URL:http://client.nodomain.vip:80/live.ts?channelId=480&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:FOX
-URL:http://client.nodomain.vip:80/live.ts?channelId=17&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:FOX LIFE
+http://client.nodomain.vip:80/live.ts?channelId=1445&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO
+http://client.nodomain.vip:80/live.ts?channelId=44&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO 2
+http://client.nodomain.vip:80/live.ts?channelId=16&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO 3
+http://client.nodomain.vip:80/live.ts?channelId=73&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO FAMILLY
+http://client.nodomain.vip:80/live.ts?channelId=1395&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,HBO GO
+http://client.nodomain.vip:80/live.ts?channelId=1396&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,KINO TV
+http://client.nodomain.vip:80/live.ts?channelId=608&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M1 GOLD
+http://client.nodomain.vip:80/live.ts?channelId=1593&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,M1 FILM
+http://client.nodomain.vip:80/live.ts?channelId=379&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,MAX FILMS
+http://client.nodomain.vip:80/live.ts?channelId=1488&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,SCI FI
+http://client.nodomain.vip:80/live.ts?channelId=609&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,TV 1000
+http://client.nodomain.vip:80/live.ts?channelId=480&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX
+http://client.nodomain.vip:80/live.ts?channelId=17&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX LIFE
 URL:http://client.nodomain.vip:80/live.ts?channelId=19&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:FOX CRIME
-URL:http://client.nodomain.vip:80/live.ts?channelId=18&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:FOX MOVIES
-URL:http://client.nodomain.vip:80/live.ts?channelId=111&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:FOX BUSINESS
-URL:http://client.nodomain.vip:80/live.ts?channelId=1406&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
-Channel name:FOX PREMIUM FAMILY
-URL:http://client.nodomain.vip:80/live.ts?channelId=1442&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX CRIME
+http://client.nodomain.vip:80/live.ts?channelId=18&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX MOVIES
+http://client.nodomain.vip:80/live.ts?channelId=111&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX BUSINESS
+http://client.nodomain.vip:80/live.ts?channelId=1406&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,FOX PREMIUM FAMILY
+http://client.nodomain.vip:80/live.ts?channelId=1442&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:PICKBOX 1 HD
 URL:http://client.nodomain.vip:80/live.ts?channelId=1211&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
 Channel name:PICKBOX 2 HD
