@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,NOVA TV
+http://client.nodomain.vip:80/live.ts?channelId=5&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
+#EXTINF:-1,NOVA TV HD
+http://client.nodomain.vip:80/live.ts?channelId=1176&deviceUser=husejnovic&devicePass=CxoGSq5l7NnoEXpgrAhw&uid=37608
